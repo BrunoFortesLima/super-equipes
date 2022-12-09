@@ -6,6 +6,8 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 # Vingadores
 
+![Alt text](files/vingadores.jpg?raw=true "Title")
+
 1 - [Blade](vingadores/blade.md)
 2 - [Capitão America](vingadores/capitao-america.md)
 3 - [Estigma](vingadores/estigma.md)
@@ -18,7 +20,9 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 ---
 
-#Xmen
+# Xmen
+
+![Alt text](files/xmen.jpg?raw=true "Title")
 
 1 - [Ciclope](xmen/ciclope.md)
 2 - [Jean Grey](xmen/jean-grey.md)

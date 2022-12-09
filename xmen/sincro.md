@@ -1,1 +1,3 @@
 # Sincro
+
+[Voltar](../README.md)
