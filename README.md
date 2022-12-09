@@ -8,15 +8,15 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 ![Alt text](files/vingadores.jpg?raw=true "Title")
 
-1 - [Blade](vingadores/blade.md)
-2 - [Capitão America](vingadores/capitao-america.md)
-3 - [Estigma](vingadores/estigma.md)
-4 - [Falcão Noturno](vingadores/falcao-noturno.md)
-5 - [Fenix](vingadores/fenix.md)
-6 - [Homem de Ferro](vingadores/homem-de-ferro.md)
-7 - [Namor](vingadores/namor.md)
-8 - [Thor](vingadores/thor.md)
-9 - [Valquiria](vingadores/valquiria.md)
+1 - [Blade](vingadores/blade.md)<br />
+2 - [Capitão America](vingadores/capitao-america.md)<br />
+3 - [Estigma](vingadores/estigma.md)<br />
+4 - [Falcão Noturno](vingadores/falcao-noturno.md)<br />
+5 - [Fenix](vingadores/fenix.md)<br />
+6 - [Homem de Ferro](vingadores/homem-de-ferro.md)<br />
+7 - [Namor](vingadores/namor.md)<br />
+8 - [Thor](vingadores/thor.md)<br />
+9 - [Valquiria](vingadores/valquiria.md)<br />
 
 ---
 
@@ -24,10 +24,10 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 ![Alt text](files/xmen.jpg?raw=true "Title")
 
-1 - [Ciclope](xmen/ciclope.md)
-2 - [Jean Grey](xmen/jean-grey.md)
-3 - [Polaris](xmen/polaris.md)
-4 - [Sincro](xmen/sincro.md)
-5 - [Solaris](xmen/solaris.md)
-6 - [Vampira](xmen/vampira.md)
-7 - [Wolverine](xmen/wolverine.md)
+1 - [Ciclope](xmen/ciclope.md)<br />
+2 - [Jean Grey](xmen/jean-grey.md)<br />
+3 - [Polaris](xmen/polaris.md)<br />
+4 - [Sincro](xmen/sincro.md)<br />
+5 - [Solaris](xmen/solaris.md)<br />
+6 - [Vampira](xmen/vampira.md)<br />
+7 - [Wolverine](xmen/wolverine.md)<br />
